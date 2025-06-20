@@ -8,7 +8,7 @@ My personal interests include sailing, reading, the Blackhawks, and spending tim
 
 Let's connect!
 
-[![Handshake](https://img.shields.io/badge/Handshake-4B9CD3?style=flat&logo=handshake&logoColor=white)](https://joinhandshake.com)
+[![Handshake](https://img.shields.io/badge/Handshake-4B9CD3?style=flat&logo=handshake&logoColor=white)]([https://joinhandshake.com](https://unc.joinhandshake.com/profiles/73a7wz))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B9CD3?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-bryan)
 
 
