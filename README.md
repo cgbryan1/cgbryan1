@@ -1,7 +1,10 @@
 # Hey, I'm Caroline! 👋
 
 I'm a junior at UNC Chapel Hill studying Computer Science, graduating in spring 2027.
-My professional interests lie within software development, human-computing interaction, ethical AI, and Spanish. My personal interests include sailing, reading, the Blackhawks, and spending time outdoors!
+
+My professional interests lie within software development, human-computing interaction, ethical AI, and Spanish. 
+
+My personal interests include sailing, reading, the Blackhawks, and spending time outdoors!
 
 Let's connect!
 
