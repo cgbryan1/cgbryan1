@@ -52,8 +52,8 @@ Let's connect!
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626.svg?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure_OpenAI-0089D6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure_OpenAI-0089D6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-FBCA04?style=for-the-badge)
 
