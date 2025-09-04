@@ -62,5 +62,5 @@ Let's connect!
 
 ## 📊 Projects
 
-I've done work with AI integration, modern web development, and python-based data analytics. Check out my repositories below!
+Some of my favorite projects have included work with AI integration, modern web development, and data analytics. Check out my repositories below!
 
